@@ -1,10 +1,10 @@
 ---
-title: Text and Typography
+title: Categories of this 'Blog'
 author: cotes
 date: 2019-08-08 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [typography]
-pin: true
+#pin: true
 math: true
 mermaid: true
 ---
@@ -29,5 +29,4 @@ This post is my attept to communicate how the categories work in this blog.
   + Manga/Manhwa
   + Series
   + Movies
- 
  

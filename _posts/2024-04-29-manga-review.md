@@ -1,5 +1,6 @@
 ---
 title: Manga Review Database
+author: tama
 date: 2024-04-29 06:09:00 +0800
 categories: [Entertainment, Manga/Manhwa]
 tags: [typography]

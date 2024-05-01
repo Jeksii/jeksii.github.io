@@ -1,11 +1,12 @@
 ---
 title: Mr. & Mrs. Smith
+author: tama
 date: 2024-02-09 00:00:01 +0800
 categories: [Art, Series]
 tags: [random]     # TAG names should always be lowercase
-image:
-  path: 
-  alt: 
+#image:
+#  path: 
+#  alt: 
 ---
 
 # Overall Score

@@ -1,5 +1,6 @@
 ---
 title: Voice Training
+author: tama
 date: 2024-02-14 11:33:00 +0800
 categories: [Project, VoiceTraining]
 tags: [typography]

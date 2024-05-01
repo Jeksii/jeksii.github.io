@@ -2,9 +2,9 @@
 title: Categories of this 'Blog'
 author: cotes
 date: 2019-08-08 11:33:00 +0800
-categories: [Blogging, Demo]
+categories: [Project, Website]
 tags: [typography]
-#pin: true
+pin: false
 math: true
 mermaid: true
 ---
@@ -25,6 +25,7 @@ This post is my attept to communicate how the categories work in this blog.
   + Website
   + Game
   + Electronics
+  + Cooking
 - Entertainment
   + Manga/Manhwa
   + Series

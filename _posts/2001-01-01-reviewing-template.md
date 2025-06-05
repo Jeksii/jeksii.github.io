@@ -4,9 +4,9 @@ author: tama
 date: 2019-08-08 11:33:00 +0800
 categories: [Entertainment, Series] # Series, Movies, Books, Manga, etc
 tags: [typography]
-image:
-  path: #https://upload.wikimedia.org/wikipedia/en/9/99/Echo_%28miniseries%29_logo.jpg
-  alt: #Logo for Disney Marvel's Echo.
+# image:
+#   path: #https://upload.wikimedia.org/wikipedia/en/9/99/Echo_%28miniseries%29_logo.jpg
+#   alt: #Logo for Disney Marvel's Echo.
 pin: false
 math: true
 mermaid: true

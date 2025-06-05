@@ -1,49 +1,42 @@
 ---
-title: Ted Lasso
+title: The Good Fight
 author: tama
-date: 2025-05-20 11:33:00 +0800 # YYYY - MM- DD
+date: 2025-02-20 11:33:00 +0800 # YYYY - MM- DD
 categories: [Entertainment, Series] # Series, Movies, Books, Manga, etc
-tags: [typography]
+tags: [FeelsGoodMan]
 image:
-  path: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlOsVNrd6ZZePiO2BPWlLacJKwTEldWjUqtRHOgmJcXZ-AqkKJvGpfQKuOBrTNKER_pY6v
-  alt: Image of Ted Lasso
+  path: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAhFhxR_793Pn-zXN609T5J909vM8VFwQMcqzCE69700NEyfxU1LJZSImy1OJ-p83be_nG
+  alt: Image of The Good Fight
 pin: false
 math: true
 mermaid: true
 ---
 
-Review status : Done _but not particularly proud_
-
-> Warning. This is now a spoilerfull zone
-{: .prompt-danger } 
+> Review status : x
+{: .prompt-tip } 
 
 # Overall Score
 : ⭐⭐⭐⭐⭐
 
-# Personal Warnings
-- [x] Absurd amout of optimism and positivity
-- [ ] Nudity / Gore 
-- [ ] Serial Killer
-- [x] A good family show to watch with the fam
+# Warnings
+- [x] Pandering to the Left
+- [ ] COVID Free
+- [x] Christine Baranski
+
 
 # Plot
-It is not about serial killer. Ted Lasso is not Ted Bundy.
-It is about an American coach who is hired by an English Soccer team. Plot twist, he knows nothing about soccer but with his power of friendship and optimism became a champion*. It's a show about personal growth, forgiveness, asking for forgiveness, being kind, and all that good sauce.
+A Drama show about lawyer.. company(?), lawyers and laws in the US. During the 6 Seasons, it integrated real-life events between 2017 to 2022 including the Covid Era. 
 
-What stands out to me the most is that it does not try to give the highest rush. The typical story for these sports show is that the protagonist wins the _whatever cup they're in_ and/or saves the world in the process. But Ted Lasso loses a lot and that's okay. Its okay to not be the number one in the world as long as you're number one to yourself.
+## Casts
+The main character is Diane Lockhart played by the beautifuly MILF/GILF Christine Baranski. Rosse Leslie (Ygritte in GoT) is also here but her character is not the best and thankfully got retired later. Show is stacked with good actors. It has some amazing 'villains' like Andre Braugher, Matthew Perry, and Michael Sheen which creates some bitter-sweet feeling/nostalgia. It has a lot of non-white actors like UKs Cush Jumbo
 
-## Sweet and Short
-I believe that the real world is too dark and I need my show to have as much brightness as the sun. Ted Lassso was that. 
-It ran for 3 seasons. I think its the perfect length for these feel good psychology show. I imagine it might get depressing if the characters go for years and years without any sign of improvement. They don't need to show THE happy ending, just the trend that life is gonna get better and even better.
+## Spins
+I didn't know this but apparently this shouw is a spin-off of The Good Wife. The show also spins off into [**Elsbeth**](https://en.wikipedia.org/wiki/Elsbeth_(TV_series))
 
-## Pandering the Left
-Ted Lasso is a very "left-wing" and it is pandering. Psychology, Refugee, Socialism, Flawed parents, and so on.
-Yeah, idk whether right-wingers believe that going to a psychologist is a sign of weakness
-[**Some Criticism**](https://www.reddit.com/r/television/comments/137vbw0/ted_lasso_has_lost_its_way/)
+## Real life Knowledge
+I'm not a history buff but I imagine when people watch a historical show they kinda know what's gonna happen therefore somewhat immune to the plot twists. But through reddit I know American Politics and boy this show was my first time experiencing such things. How it seamlessly integrates things that happens during Trump's precidency and shows that some democrats where benefited when he won. Show also didn't skip Covid, they integrated it for better/worse. It takes a special balls to do this, most shows pretend that Covid didn't happen and I don't blame them. I want my show to emphasise on the goodness of this world, the light in the dark.
 
-## Rants
+## Masturbatory
+I love a story with a message. Most children book has generic message like "Be Good" or "Be Kind". James Gunn's show like Peacemaker and Guardians of the Galaxy vol.3 has a bit of "Don't be racist" message. The Good Fight has probably the most specific message which can be generalized to "Be a Democrat", "Left Wing Best Wing". I don't think I've watched a show so catered towards my view (which has been shaped by reddit lol). It's an interesting feeling
 
-
-
-
-
+I find that pop-shows nowadays are very generic as they need to cater both ends of the spectrum and boy that spectrum is LOOOOOONG. 

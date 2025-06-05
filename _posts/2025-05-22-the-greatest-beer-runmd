@@ -5,7 +5,7 @@ date: 2025-05-22 04:04:04 +0800
 categories: [Entertainment, Movie] # Series, Movies, Books, Manga, etc
 tags: [Thinkge]
 image:
-  path: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSVybZXhDrwgL29oryiHvUsrLNtAadhlIC1MFiGP5TvAbcBAeDkKQH5QcHzen_5qC-5D76
+  path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSVybZXhDrwgL29oryiHvUsrLNtAadhlIC1MFiGP5TvAbcBAeDkKQH5QcHzen_5qC-5D76"
   alt: The Greatest Beer Run Ever
 pin: false
 math: true

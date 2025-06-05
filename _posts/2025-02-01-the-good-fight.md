@@ -5,7 +5,7 @@ date: 2025-02-20 11:33:00 +0800 # YYYY - MM- DD
 categories: [Entertainment, Series] # Series, Movies, Books, Manga, etc
 tags: [FeelsGoodMan]
 image:
-  path: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAhFhxR_793Pn-zXN609T5J909vM8VFwQMcqzCE69700NEyfxU1LJZSImy1OJ-p83be_nG
+  path: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAhFhxR_793Pn-zXN609T5J909vM8VFwQMcqzCE69700NEyfxU1LJZSImy1OJ-p83be_nG"
   alt: Image of The Good Fight
 pin: false
 math: true

@@ -1,11 +1,12 @@
 ---
 title: Ricky Stanicky
+description: 
 author: tama
 date: 2025-05-21 04:04:04 +0800
 categories: [Entertainment, Movie] # Series, Movies, Books, Manga, etc
 tags: [FeelsGoodMan]
 image:
-  path: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkuZkEgfKr9Txshme1TUHWZflJHQXDoF8CnH2TaOycBhBuInDHDXWaAvfeD-b4N8xCQUWT
+  path: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkuZkEgfKr9Txshme1TUHWZflJHQXDoF8CnH2TaOycBhBuInDHDXWaAvfeD-b4N8xCQUWT"
   alt: Ricky Stanitcky Logo
 pin: false
 math: true

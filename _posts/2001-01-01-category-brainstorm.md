@@ -26,8 +26,10 @@ This post is my attept to communicate how the categories work in this blog.
   + Game
   + Electronics
   + Cooking
+  + Others
 - Entertainment
   + Manga/Manhwa
   + Series
   + Movies
+  + Podcast/Blogs
  

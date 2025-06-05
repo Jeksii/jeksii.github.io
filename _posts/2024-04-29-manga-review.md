@@ -7,6 +7,9 @@ tags: [typography]
 pin: false
 ---
 
+> Last Update: 29-04-2024
+{: .prompt-warning } 
+
 # Overview 
 I read a lot of manga but I don't watch any anime. 
 I read them off tachiyomi and read most of them for "free"
@@ -32,7 +35,9 @@ This list is MASSIVE so I put it onto a spreadsheet
 
 
 ## Trash
-I tried reading these and H A T E D them.
+I tried reading these and its TRASH.
 Most of them I didn't finish because do not eat trash.
+Some joseis are objectively good but I can't stomach them. but I know they're good so I won't put them here
 | Title              | Reason           |
+|:-------------------|:-----------------|
 |                    |                  |

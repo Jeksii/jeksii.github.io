@@ -32,4 +32,5 @@ This post is my attept to communicate how the categories work in this blog.
   + Series
   + Movies
   + Podcast/Blogs
+  + Games
  
